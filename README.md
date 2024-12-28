@@ -142,8 +142,8 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ## 👥 Autor
 
 Nome do Desenvolvedor
-- Email: seu-email@exemplo.com
-- LinkedIn: [Seu LinkedIn](https://linkedin.com/in/seu-perfil)
+- Email: henriquerod21@gmail.com
+- LinkedIn: [[Seu LinkedIn](https://linkedin.com/in/seu-perfil)](https://www.linkedin.com/in/henrique-augusto-rodrigues-a39b23188/)
 
 ## 🤝 Contribuições
 
