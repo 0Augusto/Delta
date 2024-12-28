@@ -36,8 +36,8 @@ Aplicativo mobile desenvolvido em React Native para a Delta Global Serviços e T
 
 1. Clone o repositório
 ```bash
-git clone https://github.com/seu-usuario/delta-app.git
-cd delta-app
+git clone [[https://github.com/seu-usuario/delta-app.git](https://github.com/0Augusto/Delta.git)](https://github.com/0Augusto/Delta.git)
+cd Delta
 ```
 
 2. Instale as dependências
